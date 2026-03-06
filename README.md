@@ -133,7 +133,7 @@ Content-Monetization-Modeler
 
 └── README.md
 
-**** Project Outcomes :****
+**Project Outcomes :**
 
 Built and evaluated multiple regression models for revenue prediction
 

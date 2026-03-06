@@ -14,7 +14,7 @@ Content creators and media companies rely heavily on video platforms such as You
 
 The objective of this project is to develop a regression model that estimates YouTube ad revenue based on performance metrics and contextual features.
 
-**Tech Used : **
+**Tech Used :**
 
 Python ,
 Pandas ,
@@ -125,12 +125,10 @@ View interactive visualizations
 
 **Repository Structure :**
 
-Content-Monetization-Modeler
-│
+**Content-Monetization-Modeler**
+
 ├── Content_Monetization_Modeler.ipynb
-
 ├── streamlit_app.py
-
 └── README.md
 
 **Project Outcomes :**
